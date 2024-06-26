@@ -1,0 +1,13 @@
+git bash = shell (명령어 해석기)
+core.editor는 vim
+
+ls : 모든 파일 목록 간략하게 보기
+ls -al : 모든 파일 목록 상세하게 보기
+pws : 현재 경로 보기
+cd .. : 상위 폴더로 이동
+cd D : D드라이브로 이동
+mkdir : 디렉토리 생성
+
+git status
+git init -b main : empty repository 초기화
+git config --global user.name : 설정
